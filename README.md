@@ -3,7 +3,7 @@ This repository contains resources for Computer Vision and Computation Photograp
 
 ## Exercsie Notebooks
 Guided notebooks for CV and CP learning
-### [Image Processing](/image-processing)
+- [Image Processing](/image-processing)
 
 ## Setup
 
