@@ -7,7 +7,7 @@ Guided notebooks for CV and CP learning
 
 ## Setup
 
-If you would like to use a virtual environment with preinstalled libraries. Setup the conda environment by using the **environment.yml** file.
+If you would like to use a virtual environment with preinstalled libraries. Setup the conda environment by using the [environment.yml](/environment.yml) file.
 
 To do so:
 1. Use the terminal command:
